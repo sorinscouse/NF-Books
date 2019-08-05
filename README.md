@@ -1,6 +1,6 @@
 # NF-Books
 
-* This is a project made at the end of an intensive Front-End Developer course (CodersLab).
+* This is a project made at the end of intensive Front-End Developer course (CodersLab).
 
 * I started building this project with HTML and some pretty advanced CSS and later I started coding Sass.
 
