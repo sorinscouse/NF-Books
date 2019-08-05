@@ -4,6 +4,8 @@
 
 * I started building this project with **HTML5** and some pretty advanced **CSS3** and later I started coding **Sass**.
 
+* I used **Advanced Responsive Design**, so the website is responsive, we can see it on different browsers and different screen sizes, like tablets or smartphones.
+
 * [NF-Books](https://sorinscouse.github.io/NF-Books/) it's a website, for a company that offers best selling books. The reader can choose from **MOST POPULAR PACKAGES** section, built with nice **CSS animations**. I created 3 **animated cards** using the most modern CSS techniques: when we hover these cards, they turn and then we can see a nice **button** that the user can click. As soon as the user hits that button, it opens like a **pop-up**. That is pure CSS, no JavaScript needed for all of this! 
 
 * After that, we have the next section, which is for **reviews**. It has a nice **video** there, **playing in the background**.
@@ -16,7 +18,7 @@
 
 * And at the end, it's just a simple **footer**.
 
-*There's lots of animation effects going on and a lot of cool design elements!
+*There's lots of animation effects going on and a lot of cool design elements!*
 
 
 
