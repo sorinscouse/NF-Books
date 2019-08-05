@@ -18,7 +18,7 @@
 
 * And at the end, it's just a simple **footer**.
 
-** *There's lots of animation effects going on and a lot of cool design elements!* **
+**** *There's lots of animation effects going on and a lot of cool design elements!* ****
 
 
 
