@@ -1,6 +1,6 @@
 # NF-Books
 
-* This is a project made at the end of intensive Front-End Developer course (CodersLab).
+* This is a project made at the end of intensive Front-End Developer course: [CodersLab](https://www.coderslab.ro/)
 
 * I started building this project with HTML and some pretty advanced CSS and later I started coding Sass.
 
@@ -14,7 +14,7 @@
 
 * Then there are custom-made designed radio buttons.
 
-* And then at the end, it's just a simple footer.
+* And at the end, it's just a simple footer.
 
 *There's lots of animation effects going on and a lot of cool design elements!
 
