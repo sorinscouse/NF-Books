@@ -1,11 +1,13 @@
 /*
-0 - 600px:        Phone
-600 - 900px:      Tablet portrait
- 900 - 1200px:    Tablet landscape
- [1200 - 1800]:   is where our normal styles apply
- 1800px + :       Big Desktop
+0px - 320px:        Small phone
+320px - 600px:      Phone
+600px - 900px:      Tablet portrait
+900px - 1200px:     Tablet landscape
+1200px - 1800px:    This is where our normal styles apply
+1800px+ :           Big Desktop
 
 $breakpoint argument choices:
+- sm-phone
 - phone
 - tab-port
 - tab-land
@@ -584,6 +586,12 @@ body {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto; }
+    @media only screen and (max-width: 22.5em) {
+      .popup__text {
+        column-count: 1; } }
+    @media only screen and (max-width: 40em) {
+      .popup__text {
+        column-count: 1; } }
   .popup:target {
     opacity: 1;
     visibility: visible; }
@@ -669,7 +677,7 @@ body {
 
 .footer {
   background-color: #333;
-  padding: 10rem 0;
+  padding: 15rem 0;
   font-size: 1.4rem;
   color: #f7f7f7; }
   @media only screen and (max-width: 56.25em) {
@@ -925,6 +933,9 @@ body {
   @media only screen and (max-width: 56.25em) {
     .section-about {
       padding: 20rem 0; } }
+  @media only screen and (max-width: 22.5em) {
+    .section-about {
+      padding: 30rem 0; } }
 
 .section-features {
   padding: 20rem 0;

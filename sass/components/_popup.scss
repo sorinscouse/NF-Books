@@ -65,6 +65,14 @@
         -ms-hyphens: auto;
         -webkit-hyphens: auto;
         hyphens: auto;
+
+        @include respond(sm-phone) {
+            column-count: 1;
+        }
+
+        @include respond(phone-moto) {
+            column-count: 1;
+        }
     }
 
     //Open states
