@@ -2,8 +2,6 @@
 
 https://sorinscouse.github.io/NF-Books/
 
-* This is a project made at the end of intensive **Front-End Developer course:** [CodersLab](https://www.coderslab.ro/)
-
 * I started building this project with **HTML5** and some pretty advanced **CSS3** and later I started coding **Sass**.
 
 * I used **Advanced Responsive Design**, so the website is responsive, we can see it on different browsers and different screen sizes, like tablets or smartphones.
